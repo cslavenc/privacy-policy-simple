@@ -1,5 +1,3 @@
-Privacy Policy
-
 We are committed to protecting your privacy when you use our Android app. Please read this privacy policy to understand how we handle your information.
 
 1. Information Collection: Our app does not collect, store, or track any personal information from users. We do not require you to create an account or provide any personal details to use the app.
